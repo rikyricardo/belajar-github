@@ -1,5 +1,6 @@
 List belajar Bahasa pemrograman
-- PHP
+
 - Javascript
 - AngularJS
 - ReactNative
+- Python
